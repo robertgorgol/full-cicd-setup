@@ -1,1 +1,1 @@
-# full-cida-setup
+# full-cicd-setup
